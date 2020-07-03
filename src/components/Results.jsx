@@ -5,7 +5,7 @@ const Results = ({cities}) => {
         <div>
             {cities.map((city) => (
                 <div className="card border-dark mb-3" style={{ width: "18rem", marginLeft: "auto", marginRight: "auto"}}>
-                    <h5 class="card-header">{city.LocationText}</h5>
+                    <a target="_blank" rel="noopener noreferrer" href={'https://www.google.com/maps/place/' + city.Lat + ',' + city.Long} class="card-header"><h5>{city.LocationText}</h5></a>
                         <div className="card-body">
                             <p className="card-text">State: {city.State}</p>
                             <p className="card-text"> Country: {city.Country}</p>
