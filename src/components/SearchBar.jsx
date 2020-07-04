@@ -9,6 +9,11 @@ const SearchBar = ({onChange, onSubmit}) => {
               placeholder="Try 10065"
               onChange={onChange}
               id="zip"
+              onKeyPress={event => {
+                if (event.key === 'Enter') {
+                  onSubmit(event)
+                }
+              }}
             />
           </div>
           <br></br>
