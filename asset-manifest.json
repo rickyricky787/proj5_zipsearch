@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/proj5_zipsearch/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/proj5_zipsearch/static/js/main.0b5da893.chunk.js",
+    "main.js.map": "/proj5_zipsearch/static/js/main.0b5da893.chunk.js.map",
+    "runtime-main.js": "/proj5_zipsearch/static/js/runtime-main.1ce817d5.js",
+    "runtime-main.js.map": "/proj5_zipsearch/static/js/runtime-main.1ce817d5.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/proj5_zipsearch/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.428f7df0.chunk.js": "/proj5_zipsearch/static/js/2.428f7df0.chunk.js",
+    "static/js/2.428f7df0.chunk.js.map": "/proj5_zipsearch/static/js/2.428f7df0.chunk.js.map",
+    "index.html": "/proj5_zipsearch/index.html",
+    "precache-manifest.09983e6a1dcaec0b9a8fedce4eea6c31.js": "/proj5_zipsearch/precache-manifest.09983e6a1dcaec0b9a8fedce4eea6c31.js",
+    "service-worker.js": "/proj5_zipsearch/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/proj5_zipsearch/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/proj5_zipsearch/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.428f7df0.chunk.js.LICENSE.txt": "/proj5_zipsearch/static/js/2.428f7df0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ce817d5.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.428f7df0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0b5da893.chunk.js"
+  ]
+}
